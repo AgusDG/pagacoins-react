@@ -1,0 +1,83 @@
+table {
+  text-align: center;
+}
+
+.inputWalletName,
+.inputWalletBalance {
+  width: 200px !important;
+  margin-top: 10px;
+  margin-right: 20px;
+  display: inline !important;
+}
+
+.inputName,
+.inputEmail {
+  width: 300px !important;
+  margin-top: 10px;
+  margin-right: 20px;
+  display: inline !important;
+}
+
+.deleteWalletButton {
+  width: 60px;
+  height: 30px;
+  line-height: 30px;
+  background-color: firebrick;
+  color: white;
+  font-size: 90%;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.createWallet {
+  margin-top: 20px;
+}
+
+.transactionColumn {
+  width: 120px;
+}
+.deleteColumn {
+  width: 65px;
+}
+
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.text-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.goToTransactionButton {
+  width: 115px;
+  height: 30px;
+  line-height: 30px;
+  background-color: dodgerblue;
+  color: white;
+  font-size: 90%;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.goToTransactionButton:hover {
+  background-color: rgb(13, 65, 117);
+}
+
+.deleteWalletButton:hover {
+  background-color: maroon;
+}
+
+.totalBalance {
+  margin-bottom: 20px;
+}
+
+.totalBalance,
+.totalwallets {
+  font-size: 120%;
+}
+
+.totalwallets span,
+.totalBalance span {
+  font-size: 90%;
+}

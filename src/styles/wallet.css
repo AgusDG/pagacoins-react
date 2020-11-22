@@ -1,0 +1,15 @@
+.inputWalletId {
+  width: 300px !important;
+  display: inline-block !important;
+  margin-right: 10px;
+}
+.inputTransferAmount {
+  width: 200px !important;
+  display: inline-block !important;
+  margin-right: 10px;
+}
+
+.transferButton {
+  display: inline-block;
+  margin-top: -7px;
+}
